@@ -1,31 +1,5 @@
 Bowling with React
 =================
-This is a bowling scorecard built using React.js and Redux.
-
-Unit tests have been written using Jest and enzyme.
-
-Enter your bowling scores [here](https://blundells-bowling.herokuapp.com/)!
-
-![Blundell's Bowling](https://i.imgur.com/yj6ESJK.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Run Locally:
------
-1. Open your terminal
-2. Either Git clone this repository </br>
-`git clone https://github.com/Simba14/Bowling-with-React.git`
-3. Change into the directory: `cd Bowling-with-React`
-4. Run `yarn start`
-5. Open your browser and go to http://localhost:3000/
-6. Bowl Away!
-
-To run tests, type in `yarn test`
-
-![tests](https://i.imgur.com/0Xelgm8.gif)
-
-Things To Improve On:
------
 
 - Test Game component by mocking redux elements.
 - Refactor updateCumulativeScore function (as it's rather ugly!)
